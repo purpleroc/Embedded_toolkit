@@ -7,26 +7,26 @@ Embedded-toolkit是用来收集能够直接在嵌入式平台上运行的小工�
 希望大家也都补充。  
 
 ##Directory structure
-GEmbedded-tools/
-├── arm
-│   ├── gdb
-│   ├── gdbserver
-│   ├── gdbserver.self
-│   ├── README
-│   └── tcpdump
-└── mips
-    ├── LSB
-    │   ├── gdb-linux.mipsle
-    │   ├── gdb.mipsle
-    │   ├── gdbserver
-    │   ├── gdbserver.mipsle
-    │   ├── README.md
-    │   └── tcpdump.mipsle
-    └── MSB
-        ├── gdb.mipsbe
-        ├── gdbserver.mipsbe
-        └── README.md
+GEmbedded-tools/  
+├── arm  
+│   ├── gdb  
+│   ├── gdbserver  
+│   ├── gdbserver.self  
+│   ├── README  
+│   └── tcpdump  
+└── mips  
+    ├── LSB  
+    │   ├── gdb-linux.mipsle  
+    │   ├── gdb.mipsle  
+    │   ├── gdbserver  
+    │   ├── gdbserver.mipsle  
+    │   ├── README.md  
+    │   └── tcpdump.mipsle  
+    └── MSB  
+        ├── gdb.mipsbe  
+        ├── gdbserver.mipsbe  
+        └── README.md  
 
 ##Cross compile
 
-<./cross_compile.pdf>
+![pdf](./cross_compile.pdf)
