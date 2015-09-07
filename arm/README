@@ -1,0 +1,4 @@
+arm/gdb:            ELF 32-bit LSB  executable, ARM, EABI5 version 1 (SYSV), dynamically linked (uses shared libs), not stripped
+arm/gdbserver:      ELF 32-bit LSB  executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+arm/gdbserver.self: ELF 32-bit LSB  executable, ARM, EABI5 version 1 (SYSV), dynamically linked (uses shared libs), not stripped
+arm/tcpdump:        ELF 32-bit LSB  executable, ARM, EABI4 version 1 (SYSV), dynamically linked (uses shared libs), stripped
