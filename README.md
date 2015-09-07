@@ -29,4 +29,4 @@ GEmbedded-tools/
 
 ##Cross compile
 
-![pdf](./cross_compile.pdf)
+![cross_compile.pdf](./cross_compile.pdf)
