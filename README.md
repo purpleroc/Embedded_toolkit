@@ -15,18 +15,18 @@ GEmbedded-tools/
 │   ├── README  
 │   └── tcpdump  
 └── mips  
-    ├── LSB  
-    │   ├── gdb-linux.mipsle  
-    │   ├── gdb.mipsle  
-    │   ├── gdbserver  
-    │   ├── gdbserver.mipsle  
-    │   ├── README.md  
-    │   └── tcpdump.mipsle  
-    └── MSB  
-        ├── gdb.mipsbe  
-        ├── gdbserver.mipsbe  
-        └── README.md  
+　　├── LSB  
+　　│   ├── gdb-linux.mipsle  
+　　│   ├── gdb.mipsle  
+　　│   ├── gdbserver  
+　　│   ├── gdbserver.mipsle  
+　　│   ├── README.md  
+　　│   └── tcpdump.mipsle  
+　　└── MSB  
+　　　　├── gdb.mipsbe  
+　　　　├── gdbserver.mipsbe  
+　　　　└── README.md  
 
 ##Cross compile
 
-![cross_compile.pdf](./cross_compile.pdf)
+!<cross_compile.pdf>(./cross_compile.pdf)
